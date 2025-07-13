@@ -83,5 +83,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsametturkmenoglu&" alt="abdulsametturkmenoglu" /></p>
 
 <p align="center">
-  ![snake gif](https://github.com/AbdulSametTurkmenoglu/AbdulSametTurkmenoglu/blob/output/github-contribution-grid-snake.gif)
+  <img src="https://github.com/AbdulSametTurkmenoglu/AbdulSametTurkmenoglu/blob/output/github-contribution-grid-snake.gif" alt="snake" />
 </p>
