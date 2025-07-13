@@ -72,3 +72,5 @@
 - 📘 Publish technical blog series on **Turkish NLP**
 - 🧠 Develop a **custom Sentence-Transformer model**
 - 🌍 Apply for an **international AI/NLP work**
+
+![snake gif](https://github.com/AbdulSametTurkmenoglu/AbdulSametTurkmenoglu/blob/output/github-contribution-grid-snake.gif)
