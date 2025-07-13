@@ -87,12 +87,5 @@
 
 ---
 
-## 🧩 Katkı Haritası
-
-<p align="center">
-  <img src="https://github.com/AbdulSametTurkmenoglu/AbdulSametTurkmenoglu/blob/output/github-contribution-grid-snake.gif" alt="snake" />
-</p>
-
----
 
 
