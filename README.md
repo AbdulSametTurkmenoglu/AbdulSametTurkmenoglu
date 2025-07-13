@@ -43,30 +43,39 @@
 📧 **E-posta:** abdulsamet80turkmenoglu@gmail.com
 
 ---
+
 ## 🛠️ Kullandığım Teknolojiler
 
 ### 🧑‍💻 Programming Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" height="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
+</p>
 
 ### 📊 ML / DL Libraries
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="24" height="24" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="24" height="24" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="24" height="24" />
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="24" height="24" />
+<p>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="24" height="24" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="24" height="24" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="24" height="24" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="24" height="24" />
+</p>
 
 ### 🧪 Data Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="24" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="24" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="24" height="24" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="24" height="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="24" height="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="24" height="24" />
+</p>
 
 ### ⚙️ DevOps & Other Tools
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="24" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" height="24" />
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" height="24" />
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="24" height="24" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="24" height="24" />
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="24" height="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" height="24" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" height="24" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="24" height="24" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="24" height="24" />
+</p>
 
 ---
 ## 📊 GitHub İstatistikleri
