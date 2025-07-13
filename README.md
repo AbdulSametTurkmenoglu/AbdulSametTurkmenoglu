@@ -18,7 +18,6 @@
 - 🔭 **TÜBİTAK 2209-A Araştırma Projesi**  
   **Proje Adı**: Türk Hukuki Metinlerinin Anlamlandırılması İçin Yapay Zekâ Sistemi  
   ✔ RAG (Retrieval-Augmented Generation) mimarisi  
-  ✔ Sentence-Transformers + FAISS + LLaMA 2 7B Chat modeli
 
 ---
 
