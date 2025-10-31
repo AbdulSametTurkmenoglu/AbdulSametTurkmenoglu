@@ -32,7 +32,7 @@ My work bridges the gap between state-of-the-art research and scalable, producti
 ## 🛠️ Tech Stack & Tools
 
 ### 🤖 GenAI & LLM Frameworks
-<p>
+<p align="left">
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/120680658?s=200&v=4" width="36" height="36" alt="LangChain" />
   </a>
@@ -40,7 +40,7 @@ My work bridges the gap between state-of-the-art research and scalable, producti
     <img src="https://avatars.githubusercontent.com/u/120197258?s=200&v=4" width="36" height="36" alt="LlamaIndex" />
   </a>
   <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="HuggingFace" />
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="36" height="36" alt="Hugging Face" />
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36" alt="PyTorch" />
@@ -49,13 +49,16 @@ My work bridges the gap between state-of-the-art research and scalable, producti
     <img src="https://avatars.githubusercontent.com/u/132717088?s=200&v=4" width="36" height="36" alt="vLLM" />
   </a>
   <a href="https://github.com/unslothai/unsloth" target="_blank">
-    <img src="https://user-images.githubusercontent.com/10042095/279432432-8d7536c6-2347-49e5-bfc3-f3c5f47c8c6a.png" width="36" height="36" alt="Unsloth" />
+    <img src="https://raw.githubusercontent.com/unslothai/unsloth/main/assets/logo.png" width="36" height="36" alt="Unsloth" />
   </a>
 </p>
-**Specialized Frameworks:** `CrewAI`, `LangGraph`, `HuggingFace TRL`
+
+**Specialized Frameworks:** `CrewAI`, `LangGraph`, `Hugging Face TRL`
+
+---
 
 ### ⚙️ LLMOps & DevOps
-<p>
+<p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
   </a>
@@ -66,20 +69,22 @@ My work bridges the gap between state-of-the-art research and scalable, producti
     <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="36" height="36" alt="MLflow" />
   </a>
   <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/120680658?s=200&v=4" width="36" height="36" alt="LangSmith" />
+    <img src="https://api.iconify.design/logos:langchain.svg" width="36" height="36" alt="LangSmith" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" />
   </a>
 </p>
 
+---
+
 ### 📊 Core Data & ML Stack
-<p>
+<p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="36" height="36" alt="NumPy" />
@@ -88,14 +93,12 @@ My work bridges the gap between state-of-the-art research and scalable, producti
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="PostgreSQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
 </p>
-
----
 
 ## 📝 Blog & Publications
 
