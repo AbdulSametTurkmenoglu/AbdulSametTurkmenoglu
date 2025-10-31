@@ -1,4 +1,3 @@
-[![MasterHead](https://dataaspirant.com/wp-content/uploads/2025/04/1-2.png)](https://github.com/AbdulSametTurkmenoglu)
 
 <h1 align="center">Hi 👋, I'm Abülsamet Türkmenoğlu</h1>
 <h3 align="center">Data Science professional specializing in AI/ML with expertise in Natural Language Processing and Large Language Models.</h3>
