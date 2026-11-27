@@ -6,6 +6,6 @@ I build AI products and put them in front of real users.
 
 **Chameleon** (in development): a proving ground for AI that tests RAG and fine-tuning options on your own data, shows what works with evidence and hands you the winning system.
 
-Always building the next thing. Hackathons and open-source tools are coming here.
+Always building the next thing.
 
 [Medium](https://medium.com/@samet80) · [LinkedIn](https://www.linkedin.com/in/abdulsamet-turkmenoglu) · abdulsamet80turkmenoglu@gmail.com
